@@ -1,2 +1,6 @@
 Good bye, Command line
+<<<<<<< Updated upstream
 Be sure to subscribe!
+=======
+Be sure to subscribe 2
+>>>>>>> Stashed changes
